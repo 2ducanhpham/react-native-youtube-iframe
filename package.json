@@ -37,8 +37,7 @@
   "peerDependencies": {
     "react": ">=16.8.6",
     "react-native": ">=0.60",
-    "react-native-web-webview": ">=1.0.2",
-    "react-native-webview": ">=7.0.0"
+    "react-native-web-webview": ">=1.0.2"
   },
   "peerDependenciesMeta": {
     "react-native-web-webview": {
